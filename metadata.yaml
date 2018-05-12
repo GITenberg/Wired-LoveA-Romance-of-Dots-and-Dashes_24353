@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26421
     wikipedia: http://en.wikipedia.org/wiki/Ella_Cheever_Thayer_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24353#Wired-LoveA-Romance-of-Dots-and-Dashes
 gutenberg_issued: '2008-01-18'
 gutenberg_type: Text
 identifiers:
