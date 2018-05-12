@@ -1,0 +1,30 @@
+_repo: Wired-LoveA-Romance-of-Dots-and-Dashes_24353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thayer, Ella Cheever
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '26421'
+    url: http://www.gutenberg.org/2009/agents/26421
+    wikipedia: http://en.wikipedia.org/wiki/Ella_Cheever_Thayer_%28author%29
+description: ''
+gutenberg_issued: '2008-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Telegraphers -- Fiction'
+- !lcc 'PS'
+title: 'Wired Love
+
+  A Romance of Dots and Dashes'
+url: http://www.gutenberg.org/ebooks/24353
